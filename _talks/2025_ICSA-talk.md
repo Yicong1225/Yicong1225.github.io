@@ -3,6 +3,6 @@ title: "Integrative analysis of microbial 16S gene and shotgun metagenomic seque
 collection: talks
 type: "Invited Talk"
 venue: "<strong>The 2025 ICSA China Conference</strong>"
-date: 2025-06
+date: 2025-06-28
 location: "Zhuhai, China"
 ---
