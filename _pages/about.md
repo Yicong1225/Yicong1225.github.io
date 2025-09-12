@@ -20,4 +20,4 @@ bioinformatics, and statistical machine learning methods for omics data.
 
 Academic Services
 ------------------------
-- I serve as a reviewer for </strong>Annals of Applied Statistics<strong>.
+- I serve as a reviewer for <strong>Annals of Applied Statistics<strong>.
