@@ -16,12 +16,12 @@ talkmap_link: false
 # --- Author (页面右侧或页脚用到) ---
 author:
   name: "Yicong"
-  avatar: "me.jpg"                     # 放在 /images 或根目录，路径根据主题而定
+  avatar: "images/me.JPG"                     # 放在 /images 或根目录，路径根据主题而定
   bio: "Email: lyysmyc@163.com"
   location: "Beijing, China"
   github: "Yicong1225"
   googlescholar: "https://scholar.google.com/citations?user=qIKCa4MAAAAJ&hl=en"                   # 有的话填链接
-  linkedin: ""                         # 有的话填链接
+  # linkedin: ""                         # 有的话填链接
 
 # --- Social / SEO 可先留空 ---
 social:
