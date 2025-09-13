@@ -15,8 +15,8 @@ talkmap_link: false
 
 # --- Author (页面右侧或页脚用到) ---
 author:
-  name: "Yicong"
-  avatar: "images/me.JPG"                     # 放在 /images 或根目录，路径根据主题而定
+  name: "Yicong Mao"
+  avatar: "images/me.jpg"                     # 放在 /images 或根目录，路径根据主题而定
   bio: "Email: lyysmyc@163.com"
   location: "Beijing, China"
   github: "Yicong1225"
@@ -26,7 +26,7 @@ author:
 # --- Social / SEO 可先留空 ---
 social:
   type: "Person"
-  name: "Yicong"
+  name: "Yicong Mao" 
   links: []
 
 analytics:
