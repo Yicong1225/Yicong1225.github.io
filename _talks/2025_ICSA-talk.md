@@ -1,8 +1,7 @@
 ---
-title: "Integrative analysis of microbial 16S gene and shotgun metagenomic sequencing data improves statistical efficiency"
+title: "The 2025 ICSA China Conference"
 collection: talks
-type: "Invited Talk"
-venue: "<strong>The 2025 ICSA China Conference</strong>"
+type: "<strong>Invited Talk</strong>"
 date: 2025-06-28
 location: "Zhuhai, China"
 ---
