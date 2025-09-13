@@ -1,8 +1,8 @@
 ---
 title: "The 2nd Joint Conference on Statistics and Data Science (JCSDS 2024)"
-type: " "
+type: "Yunnan University"
 collection: talks
 venue: " "
 date: 2024-07-14
-location: "Yunnan University, Kunming, China"
+location: "Kunming, China"
 ---
