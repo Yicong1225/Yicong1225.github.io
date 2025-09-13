@@ -1,8 +1,8 @@
 ---
 title: "Beijing Biometrics Association 2024 Annual Meeting and 9th Academic Exchange Seminar"
-type: " "
+type: "<strong>Selected as the Outstanding Young Paper</strong>"
 collection: talks
-venue: "<strong>Selected as the Outstanding Young Paper</strong>"
+venue: " "
 date: 2025-01-19
 location: "Beijing, China"
 ---

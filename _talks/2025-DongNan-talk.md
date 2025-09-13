@@ -1,8 +1,8 @@
 ---
 title: "The 1st \"Shuju Dongnan\" Young Scholars Forum"
-type: " "
+type: "<strong>Invited Talk</strong>" 
 collection: talks
-venue: "<strong>Invited Talk</strong>"
+venue: " "
 date: 2025-07-05
 location: "Southeast University, Nanjing, China"
 ---
