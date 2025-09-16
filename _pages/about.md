@@ -18,6 +18,8 @@ My research focuses on developing novel statistical methodologies and software p
 analyzing microbiome data. I am also broadly interested in high-dimensional statistics,
 bioinformatics, and statistical machine learning methods for omics data.
 
+<!--
 Academic Services
 ------------------------
-- I serve as a reviewer for <strong>Annals of Applied Statistics<strong>.
+I serve as a reviewer for <strong>Annals of Applied Statistics<strong>.
+-->

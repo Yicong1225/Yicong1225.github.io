@@ -17,11 +17,11 @@ talkmap_link: false
 author:
   name: "Yicong Mao"
   avatar: "me.jpg"                    # 放在 /images 或根目录，路径根据主题而定
-  bio: "Email: lyysmyc@163.com"
+  bio: "Email: ycmao [at] hsc [dot] pku [dot] edu [dot] cn"
   location: "Beijing, China"
   github: "Yicong1225"
-  googlescholar: "https://scholar.google.com/citations?user=qIKCa4MAAAAJ&hl=en"                   # 有的话填链接
-  # linkedin: ""                         # 有的话填链接
+  googlescholar: "https://scholar.google.com/citations?user=qIKCa4MAAAAJ&hl=en"                
+  # linkedin: ""                       
 
 # --- Social / SEO 可先留空 ---
 social:
