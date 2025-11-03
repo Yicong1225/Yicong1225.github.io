@@ -16,6 +16,8 @@ Research Interests
 ------------------------
 My research focuses on developing novel statistical methodologies and software for analyzing omics data, with a particular emphasis on microbiome data. I am also broadly interested in high-dimensional statistics and statistical as well as machine learning methods for other omics data.
 
+If you are interested in my research, please feel free to reach out! I would be glad to connect and explore potential collaborations together.
+
 <!--
 Academic Services
 ------------------------
