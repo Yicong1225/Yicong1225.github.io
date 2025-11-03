@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------------------------
-I am currently a final-year PhD student at Department of Biostatistics, [Peking University](https://www.pku.edu.cn/), fortunate to be advised by Prof. Yijuan Hu and Prof. Xiang Zhan. Previously, I obtained my master degree in probability theory and mathematical statistics from Renmin University of China and my bachelor degree in statistics from Shandong University.
+I am currently a final-year PhD student at Department of Biostatistics, [Peking University](https://www.pku.edu.cn/), fortunate to be advised by Prof. Yijuan Hu and Prof. Xiang Zhan. Previously, I received my master degree in probability theory and mathematical statistics from Renmin University of China in 2022, and my bachelor degree in statistics from Shandong University in 2019.
 
 Research Interests
 ------------------------
