@@ -14,8 +14,7 @@ I am currently a final-year PhD student at Department of Biostatistics, [Peking 
 
 Research Interests
 ------------------------
-My research focuses on developing novel statistical methodologies and software for analyzing omics data, with a particular emphasis on microbiome data. I am also broadly interested in high-dimensional statistics,
-bioinformatics, and statistical machine learning methods for omics data.
+My research focuses on developing novel statistical methodologies and software for analyzing omics data, with a particular emphasis on microbiome data. I am also broadly interested in high-dimensional statistics and statistical as well as machine learning methods for other omics data.
 
 <!--
 Academic Services
